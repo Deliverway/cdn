@@ -78,7 +78,7 @@ if(document.documentElement.clientWidth > 1200) {
     $( ".t153__descr a" ).click(function(e) {e.preventDefault();
     setTimeout(function () {
     $("body,html").animate({scrollTop:200}, 300); //Делаем скролл наверх
-    $('.t393__wrapper , div[data-record-type="106"] , div[data-record-type="778"] , div[data-record-type="248"] , div[data-record-type="786"] , div[data-record-type="128"]').slideToggle(0);
+    $('div[data-record-type="106"] , div[data-record-type="778"] , div[data-record-type="248"] , div[data-record-type="786"] , div[data-record-type="128"]').slideToggle(0);
     $('div[data-record-type="558"] , div[data-record-type="191"]').slideToggle(0);}, 200);
     });
     //Уменьшаем отсупы у каталога если есть акция

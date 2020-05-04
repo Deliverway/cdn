@@ -86,3 +86,90 @@ if(document.documentElement.clientWidth > 1200) {
     $('div[data-record-type="786"]').css('padding-top' , '20px');    
     }
 });
+
+$(document).ready(function() {
+function OrderProducts() {
+let orderText = ([...document.querySelectorAll('.t706__product')]
+                .map(p => `${p.children[1].textContent} ${p.children[2].textContent} шт.`))
+                .join(', ');
+document.querySelector('.order__product').textContent = `${orderText}`;
+}
+setInterval(OrderProducts, 1000);
+});
+
+$( document ).ready(function() {
+        let counter = document.querySelector('.t706__carticon-counter');
+        but.onclick = function () {
+            counter.innerText = +counter.innerText + 1;
+        };
+        but1.onclick = function () {
+            counter.innerText = +counter.innerText - 1;
+        };
+        function checkOpacity() {
+            if(+counter.innerText > 0){ // Проверяем количество
+                $('.t393__wrapper').show(100); // Если в корзине есть показыаем кнопку "Заказать"
+                $('.t706__cartwin-content').show(100);
+                $('.basket-empty-title').css('display' , 'none');
+            } else { // Если товара нет в корзине скрываем кнопку "Заказать"
+                $('.t393__wrapper').hide(100);
+                $('.t706__cartwin-content').hide(100);
+                $('.basket-empty-title').css('display' , 'block');
+            }
+        }
+        setInterval(checkOpacity, 200); 
+});
+
+$( document ).ready(function() {
+$(".t778__content").click(function(){
+  $(".t778__descr").text('Промокод скопирован, вставьте его при оформлении заказа.');
+  let temp = $("<input>");
+  $("body").append(temp);
+  temp.val($(".t778__title span").text()).select();
+  document.execCommand("copy");
+  temp.remove();
+});
+});
+
+$(window).on('load', function() {
+            // Вызов функции share
+    $('.uscl-bar').addClass("uscl-absolute--opened"); 
+    //Подгружаем адрес с input address
+    function DeliveryAddressLoad() {
+    var deliveryAdressCart = $('.tn-elem__1841371571587660392725 .tn-atom').text();
+    $('.t-input_bbonly[name="address"]').val(deliveryAdressCart);
+    }
+    setInterval(DeliveryAddressLoad, 1000);
+    //Делаем фиксированное меню
+    var blockMenuID = '.t-store__filter__options';
+    $(window).scroll(function() { 
+        var top = $(document).scrollTop();
+        if (top >= 270) { 
+          $(blockMenuID).css('position' , 'fixed').css('top' , '70px').css('z-index' , '99').css('background-color' , '#ffffff').css('border-bottom' , '1px solid #dce2e4');
+        } else {
+          $(blockMenuID).css('position' , 'absolute').css('top' , '340px').css('background-color' , 'rgb(246, 246, 246)').css('border-bottom' , 'none'); 
+        }
+    });
+    //Скролл вверх при нажатии на категорию блюд
+	$(".t-store__filter__custom-sel").click(function (){
+			$("body,html").animate({
+				scrollTop:270
+			}, 500);
+			return false;
+	});
+});
+
+$(function stickyMenu() {
+	$(window).on('scroll', function () {
+		let stickyBlock   = '#basket-id', // ID sticky блока - замените на Id прилипающего блока
+			stopBlock     = '#t-footer', // ID стоп блока - замените на Id блока перед которым блок стики должен отлипнуть 
+			scrollTop     = $(window).scrollTop(),
+			elementOffset = $(stopBlock).offset().top,
+			distance      = (elementOffset - scrollTop),
+			height        = $(stickyBlock).height(),
+			slide         = ( height - distance);
+
+		if(distance <=  height) {
+			 $(stickyBlock).css('transform','translateY(-' + slide + 'px)')
+		} else {$(stickyBlock).css('transform','translateY(0)')}
+	});
+})

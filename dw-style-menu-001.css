@@ -96,6 +96,10 @@ div.t-store.js-store {
 .t706__body_cartwinshowed {
     overflow: auto;
 }
+/* Sticky блок - замените на Id блока который должен прилипнуть */
+#basket-id  {
+	position: -webkit-sticky;
+}
 /*Контейнер в которую помещена корзина"*/
 .basket {
     height: 100vh;

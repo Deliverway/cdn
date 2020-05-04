@@ -834,12 +834,9 @@ div[data-record-type="778"] {
 .t-store__filter__item_select .t-store__filter__item-controls-container {
     padding: 0px !important;
 }
-.t-store__filter__custom-sel:first-child {
+.t-store__filter__custom-sel:nth-child(1) {
      margin-left: 20px !important;
      padding: 0 10px 0 0;
-}
-.t-store__filter__custom-sel:last-child {
-     margin-right: 20px !important;
 }
 .t-store__filter__custom-sel {
     line-height: 60px;

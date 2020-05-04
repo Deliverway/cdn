@@ -812,6 +812,8 @@ div[data-record-type="778"] {
     left: 0px;
     background-color: #fff !important;
     margin-top: -70px;
+    top: 340px;
+    position: absolute;
 }
 .t-store__filter__item {
     border: none !important;

@@ -54,7 +54,7 @@ if(document.documentElement.clientWidth > 1200) {
     $('.t-body').css('overflow' , 'auto');
     $('#rec177358970').css('display' , 'block');
     $('.t393__wrapper').css('margin-top' , '0px');
-    $('.t706__cartwin-content').css('height' , 'calc(100vh - 140px)');
+    $('.t706__cartwin-content').css('height' , 'calc(100vh - 70px)');
     $('.t-popup').fadeOut(200);}, 200);
     });
     // Скрыаем скролл бар при вызове формы feedback

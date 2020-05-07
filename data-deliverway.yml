@@ -1,0 +1,1317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2020-05-06 16:52"><shop>
+   <name>Deliverway</name>
+   <company>Deliverway</company>
+   <url>https://deliverway.ru</url>
+   <platform>Tilda Publishing</platform>
+   <version>1.0</version>
+   <currencies>
+      <currency id="RUB" rate="1"/>
+   </currencies>
+   <categories>
+      <category id="245423028970">All</category>
+      <category id="935209448961">Рестораны и кафе</category>
+      <category id="695734758672">Кафе Тыква</category>
+      <category id="806174394618">Pizza Time</category>
+   </categories>
+  <offers>
+      <offer id="891029710299">
+          <name>Пицца "4 сезона"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-891029710299-pitstsa-4-sezona</url>
+          <price>399.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3865-3831-4935-b731-383866623030/c1e927fd-8b96-42ab-8.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Томаты, шампиньоны,карбонад, бекон, салями, ветчина, морской коктейль, сыр моцарелла, соус, специи.
+]]>
+       </description>
+          <param name="Категория блюда">Пицца</param>
+      </offer>
+      <offer id="909404538063">
+          <name>Пицца "Миланская"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-909404538063-pitstsa-milanskaya</url>
+          <price>325.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild6565-3634-4162-b331-323961656435/898828_1552382808196.JPG</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Томаты, шампиньоны,курица, салями, сыр моцарелла, соус, специи.
+]]>
+       </description>
+          <param name="Категория блюда">Пицца</param>
+      </offer>
+      <offer id="288513874759">
+          <name>Пицца "Цезарь с виноградом"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-288513874759-pitstsa-tsezar-s-vinogradom</url>
+          <price>295.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3738-3932-4637-a365-333535376435/259_pitstsa-tsezar.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Курица, виноград , соус цезарь, пицца соус, сыр моцарелла, зелень.
+]]>
+       </description>
+          <param name="Категория блюда">Пицца</param>
+      </offer>
+      <offer id="843588049697">
+          <name>Пицца "Дары моря"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-843588049697-pitstsa-dari-morya</url>
+          <price>390.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3037-3534-4039-a135-656362643063/281-1300.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Морской коктейль , соус тар-тар, пицца соус, сыр моцарелла, зелень
+]]>
+       </description>
+          <param name="Категория блюда">Пицца</param>
+      </offer>
+      <offer id="947779322597">
+          <name>Пицца "Микс"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-947779322597-pitstsa-miks</url>
+          <price>295.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild6563-3763-4537-b034-346462633866/193750x0.png</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Курица, бекон, сыр моцарелла, пицца-соус, зелень
+]]>
+       </description>
+          <param name="Категория блюда">Пицца</param>
+      </offer>
+      <offer id="897075294959">
+          <name>Пицца "Салями"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-897075294959-pitstsa-salyami</url>
+          <price>275.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild6431-3033-4939-a635-363035366135/i.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Салями, томаты, пицца соус, сыр моцарелла, зелень.
+]]>
+       </description>
+          <param name="Категория блюда">Пицца</param>
+      </offer>
+      <offer id="991631919572">
+          <name>Пицца "Аппетитная"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-991631919572-pitstsa-appetitnaya</url>
+          <price>320.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild6136-3463-4333-b236-376331646431/g-iSybO07UWOBbtWSCiT.png</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Сыр моцарелла, ветчина, томатно-горчичный соус, пеперони, томаты, болгарский перец, зелень
+]]>
+       </description>
+          <param name="Категория блюда">Пицца</param>
+      </offer>
+      <offer id="418514822791">
+          <name>Пицца "Охотничья"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-418514822791-pitstsa-ohotnichya</url>
+          <price>285.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3138-3437-4438-b765-313034333132/picca-ohotnichja-2-1.png</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Охотничьи колбаски, красный лук, маринованные огурчики
+]]>
+       </description>
+          <param name="Категория блюда">Пицца</param>
+      </offer>
+      <offer id="300308245509">
+          <name>Пицца "Аль Фунги"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-300308245509-pitstsa-al-fungi</url>
+          <price>265.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild6438-3633-4433-b132-616132326365/D0B0D0BCD181D182D0B5.png</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Грибы, помидорки черри, сыр моцарелла, соус, специи, зелень
+]]>
+       </description>
+          <param name="Категория блюда">Пицца</param>
+      </offer>
+      <offer id="162127766919">
+          <name>Пицца "Столичная"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-162127766919-pitstsa-stolichnaya</url>
+          <price>420.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3165-3431-4331-a633-343030613738/stolichnaya-768x768.png</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Пепперони, курица, бекон, грибы, помидорки, сыр моцарелла, соус, специи, зелень, красный лук
+]]>
+       </description>
+          <param name="Категория блюда">Пицца</param>
+      </offer>
+      <offer id="329578955625">
+          <name>Пицца "Дьявол"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-329578955625-pitstsa-dyavol</url>
+          <price>330.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild6232-3266-4231-b661-613635303462/fcdd0e71353d6cc2c31f.png</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Сыр моцарелла, соус тобаско, бекон, охотничьи колбаски, лук красный, томаты
+]]>
+       </description>
+          <param name="Категория блюда">Пицца</param>
+      </offer>
+      <offer id="668010823962">
+          <name>Пицца "Мясной пир"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-668010823962-pitstsa-myasnoi-pir</url>
+          <price>420.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3766-3532-4531-b738-333438326639/193750x0.png</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Сыр моццарела, фирменный соус, карбонад, курица, ветчина, бекон, салями, маслины, огурчики маринованные
+]]>
+       </description>
+          <param name="Категория блюда">Пицца</param>
+      </offer>
+      <offer id="909273312554">
+          <name>Пицца "Белиссимо"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-909273312554-pitstsa-belissimo</url>
+          <price>300.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3863-6634-4637-a233-323839613561/Bavarese-pizza.png</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Цезарь, курица, щампиньоны, сыр моцарелла, соус, специи, зелень
+]]>
+       </description>
+          <param name="Категория блюда">Пицца</param>
+      </offer>
+      <offer id="187456905650">
+          <name>Запеченный сет</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-187456905650-zapechennii-set</url>
+          <price>639.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3437-3363-4162-b934-663131653636/faohiX2d9xY.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Угорь, курица, сл.сыр, мидии, сыр моцарелла, соус "спайси/унаги"
+]]>
+       </description>
+          <param name="Категория блюда">Сеты</param>
+          <param name="Категория блюда">Запеченные роллы</param>
+      </offer>
+      <offer id="175485095192">
+          <name>Сет "Удовольствие"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-175485095192-set-udovolstvie</url>
+          <price>749.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild6137-6139-4666-a162-303937326234/lRqDuMpOo_s.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Угорь, курица, сл.сыр, мидии, сыр моцарелла, соус "спайси/унаги"
+]]>
+       </description>
+          <param name="Категория блюда">Сеты</param>
+      </offer>
+      <offer id="679131586640">
+          <name>Хит ПРОДАЖ</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-679131586640-hit-prodazh</url>
+          <price>849.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3633-3334-4931-a339-663538396661/yUKWDoPaV7c.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Угорь, курица, сл.сыр, мидии, сыр моцарелла, соус "спайси/унаги"
+]]>
+       </description>
+          <param name="Категория блюда">Сеты</param>
+      </offer>
+      <offer id="814712023278">
+          <name>Горячий сет</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-814712023278-goryachii-set</url>
+          <price>329.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3633-6532-4138-b337-363537366238/S8jrifrImtg.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+0,5 с Лососем, 0,5 с Кальмаром, 0,5 с Беконом, 0,5 с Ветчиной
+]]>
+       </description>
+          <param name="Категория блюда">Сеты</param>
+      </offer>
+      <offer id="832355950971">
+          <name>Сет "Гурман"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-832355950971-set-gurman</url>
+          <price>535.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3066-3439-4735-a434-643261336630/EaQn4T1fWf0.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Угорь, курица, сл.сыр, мидии, сыр моцарелла, соус "спайси/унаги"
+]]>
+       </description>
+          <param name="Категория блюда">Сеты</param>
+      </offer>
+      <offer id="385452515977">
+          <name>Сет "Пати"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-385452515977-set-pati</url>
+          <price>999.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3235-6330-4631-b863-306337653463/N_gNdHahI3Q.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Угорь, курица, сл.сыр, мидии, сыр моцарелла, соус "спайси/унаги"
+]]>
+       </description>
+          <param name="Категория блюда">Сеты</param>
+      </offer>
+      <offer id="727030001115">
+          <name>Сет "8 вкусов"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-727030001115-set-8-vkusov</url>
+          <price>639.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3265-3566-4664-a431-323734633562/1SDh4j32x1E.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Угорь, курица, сл.сыр, мидии, сыр моцарелла, соус "спайси/унаги"
+]]>
+       </description>
+          <param name="Категория блюда">Сеты</param>
+      </offer>
+      <offer id="180474473650">
+          <name>Сет "Японский микс"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-180474473650-set-yaponskii-miks</url>
+          <price>629.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3837-6639-4335-a239-623538646236/sPyJbT4Jo6s.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Горячий ролл Бостон, Горячий Лосось<span class="redactor-invisible-space">, Филадельфия Тобико<span class="redactor-invisible-space" data-redactor-class="redactor-invisible-space">, Цезарь</span></span>
+]]>
+       </description>
+          <param name="Категория блюда">Сеты</param>
+      </offer>
+      <offer id="407407464617">
+          <name>Ролл "Детройт"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-407407464617-roll-detroit</url>
+          <price>190.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3132-3132-4663-b066-653162333330/kgobwjwuQnM.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Угорь, курица, сл.сыр, мидии, сыр моцарелла, соус "спайси/унаги"
+]]>
+       </description>
+          <param name="Категория блюда">Роллы</param>
+          <param name="Категория блюда">Запеченные роллы</param>
+      </offer>
+      <offer id="363475629065">
+          <name>Ролл "Сливочный угорь"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-363475629065-roll-slivochnii-ugor</url>
+          <price>195.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild6530-6662-4261-b839-653238386531/T8_iRAVzdMg.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Угорь, огурец, сл.сыр, икра тобико, кунжут, соус унаги
+]]>
+       </description>
+          <param name="Категория блюда">Роллы</param>
+      </offer>
+      <offer id="139601796793">
+          <name>Ролл "Горячий угорь"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-139601796793-roll-goryachii-ugor</url>
+          <price>210.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild6136-3238-4337-a265-653465313463/jphXPMdlnZg.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Угорь, зеленый лук, сл.сыр, сыр моцарелла,, икра тобико, соус "спайси"
+]]>
+       </description>
+          <param name="Категория блюда">Роллы</param>
+      </offer>
+      <offer id="470656952504">
+          <name>Ролл "Кейсан"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-470656952504-roll-keisan</url>
+          <price>205.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3533-3963-4338-b866-373831623336/FUX8U0x1JSQ.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Лосось, угорь, огурец, сл.сыр, кунжут, соус "спайси/унаги"
+]]>
+       </description>
+          <param name="Категория блюда">Роллы</param>
+      </offer>
+      <offer id="712129153553">
+          <name>Ролл "Аляска"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-712129153553-roll-alyaska</url>
+          <price>205.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3864-3161-4336-a365-313765663530/wqSNq58YAl0.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Креветка, курица, огурец, сл.сыр, кунжут
+]]>
+       </description>
+          <param name="Категория блюда">Роллы</param>
+      </offer>
+      <offer id="268522990724">
+          <name>Ролл "Цезарь де люкс"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-268522990724-roll-tsezar-de-lyuks</url>
+          <price>195.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3838-3962-4663-a665-303161383439/IcrOU99tgBQ.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Курица, лист салата, помидор, огурец, сухари, соус "Цезарь" , пармезан
+]]>
+       </description>
+          <param name="Категория блюда">Роллы</param>
+      </offer>
+      <offer id="970277939023">
+          <name>Ролл "Гейша"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-970277939023-roll-geisha</url>
+          <price>195.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3239-6530-4036-b261-383662326531/03PbA2w47jc.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Лосось, краб, огурец, сл.сыр, икра тобико
+]]>
+       </description>
+          <param name="Категория блюда">Роллы</param>
+      </offer>
+      <offer id="132356965873">
+          <name>Ролл "Макидзу"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-132356965873-roll-makidzu</url>
+          <price>195.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3536-6331-4435-a530-363633313166/1yytFl-UZh0.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Сливочный сыр, стружка тунца, лосось, огурец, соус спайси
+]]>
+       </description>
+          <param name="Категория блюда">Роллы</param>
+      </offer>
+      <offer id="778458440700">
+          <name>Ролл "Токио" с угрём</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-778458440700-roll-tokio-s-ugryom</url>
+          <price>259.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3138-6166-4261-b062-306562343639/avqewhFJdVI.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Лосось, угорь, сливочный сыр, огурец, соус унаги
+]]>
+       </description>
+          <param name="Категория блюда">Роллы</param>
+      </offer>
+      <offer id="551327230026">
+          <name>Ролл "Филадельфия"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-551327230026-roll-filadelfiya</url>
+          <price>215.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3233-3934-4430-a266-396430653835/BpV89zExs78.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Сливочный сыр, огурец, нори, лосось
+]]>
+       </description>
+          <param name="Категория блюда">Роллы</param>
+      </offer>
+      <offer id="759928340842">
+          <name>Ролл "Фьюжн"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-759928340842-roll-fyuzhn</url>
+          <price>195.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild6661-3764-4665-b135-343434336633/5C6x--AXF4g.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Сливочный сыр, икра тобика, лосось в темпуре
+]]>
+       </description>
+          <param name="Категория блюда">Роллы</param>
+      </offer>
+      <offer id="921250522438">
+          <name>Ролл "Цезарь"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-921250522438-roll-tsezar</url>
+          <price>189.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild6538-3536-4963-b062-336563663161/ZBi_0o7vg9E.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Курица Х/К, сливочный сыр, томат, лист салата.
+]]>
+       </description>
+          <param name="Категория блюда">Роллы</param>
+      </offer>
+      <offer id="323354861423">
+          <name>Ролл "Магора"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-323354861423-roll-magora</url>
+          <price>189.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild6636-3633-4531-a663-303234313262/fVscmClsRQs.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Курица, икра тобика, сливочный сыр, краб.
+]]>
+       </description>
+          <param name="Категория блюда">Роллы</param>
+      </offer>
+      <offer id="170077209490">
+          <name>Ролл "Жареный Цезарь"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-170077209490-roll-zharenii-tsezar</url>
+          <price>185.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild6434-3935-4432-a631-363238646664/-YLPn8n6YsY.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Курица, х/к, сливочный сыр, томат.
+]]>
+       </description>
+          <param name="Категория блюда">Роллы</param>
+      </offer>
+      <offer id="604837381286">
+          <name>Ролл "Бостон"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-604837381286-roll-boston</url>
+          <price>190.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3636-6634-4265-a161-633434336434/mGQ3bI8FQj4.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Сливочный сыр, нори, курица х/к, темпура
+]]>
+       </description>
+          <param name="Категория блюда">Роллы</param>
+      </offer>
+      <offer id="812436014909">
+          <name>Ролл "Драгон Лайт"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-812436014909-roll-dragon-lait</url>
+          <price>249.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild6435-3139-4065-a637-333338616466/h3mQIth836A.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Сливочный сыр, тобико, угорь, нори, кунжут, соус унаги.
+]]>
+       </description>
+          <param name="Категория блюда">Роллы</param>
+      </offer>
+      <offer id="557718081990">
+          <name>Ролл "Сибо"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-557718081990-roll-sibo</url>
+          <price>185.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3230-3738-4532-b364-653662363535/PlyR590x7Jo.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Бекон, курица х/к, огурец, соус цезарь, кунжут
+]]>
+       </description>
+          <param name="Категория блюда">Роллы</param>
+      </offer>
+      <offer id="383662975033">
+          <name>Ролл "Бруклин"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-383662975033-roll-bruklin</url>
+          <price>250.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3833-3361-4534-b962-383261353835/DDPjQ7mo-Aw.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Сливочный сыр, нори, лосось, угорь, икра тобико, соус спайси, темпура
+]]>
+       </description>
+          <param name="Категория блюда">Роллы</param>
+      </offer>
+      <offer id="750721801335">
+          <name>Ролл "Хотто-Чизу"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-750721801335-roll-hotto-chizu</url>
+          <price>215.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild6537-6530-4930-b035-616530303633/pOf4TsExTOk.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Угорь, сливочный сыр, сыр голландский, чеснок, темпура
+]]>
+       </description>
+          <param name="Категория блюда">Роллы</param>
+      </offer>
+      <offer id="354482525818">
+          <name>Ролл "Самурай"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-354482525818-roll-samurai</url>
+          <price>260.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild6234-3766-4664-b432-386534333638/FskI-HKsJZk.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Креветка, лосось, сливочный сыр, салат, соус унаги
+]]>
+       </description>
+          <param name="Категория блюда">Роллы</param>
+      </offer>
+      <offer id="529071306620">
+          <name>Ролл "Кани-Эби"</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-529071306620-roll-kani-ebi</url>
+          <price>220.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3839-3430-4139-a637-356237623532/qqzqMuESLHQ.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Сливочный сыр, креветка, лук зеленый, соус унаги, темпура
+]]>
+       </description>
+          <param name="Категория блюда">Роллы</param>
+      </offer>
+      <offer id="695298823488">
+          <name>WOK с овощами</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-695298823488-wok-s-ovoschami</url>
+          <price>150.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3932-3866-4630-b030-653263313563/vok-s-kuriczej-768x7.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Китайская лапша "Удон"
+]]>
+       </description>
+          <param name="Категория блюда">Лапша WOK</param>
+      </offer>
+      <offer id="727206265153">
+          <name>WOK с курицей и овощами</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-727206265153-wok-s-kuritsei-i-ovoschami</url>
+          <price>180.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3031-6334-4433-a432-306566303738/vok-s-kuriczej-768x7.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Китайская лапша "Удон"
+]]>
+       </description>
+          <param name="Категория блюда">Лапша WOK</param>
+      </offer>
+      <offer id="822937744945">
+          <name>WOK с морепродуктами</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-822937744945-wok-s-moreproduktami</url>
+          <price>199.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3466-3831-4364-a465-623266336461/52-800x800.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Китайская лапша "Удон"
+]]>
+       </description>
+          <param name="Категория блюда">Лапша WOK</param>
+      </offer>
+      <offer id="534110207398">
+          <name>Запечённый Ролл «Цезарь люкс»</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-534110207398-zapechyonnii-roll-tsezar-lyuks</url>
+          <price>195.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild6630-3766-4766-a466-633937316238/OJ2mpZ0MAMc.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Сливочный сыр, курица, лист салата, сыр моцарелла, сухари, сырный соус
+]]>
+       </description>
+          <param name="Категория блюда">Запеченные роллы</param>
+      </offer>
+      <offer id="801489571572">
+          <name>Ролл «Эби гриль» запечённый</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-801489571572-roll-ebi-gril-zapechyonnii</url>
+          <price>210.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3265-3036-4337-b766-303738373930/rZJ7pr-CLq8.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Креветка, сл.сыр, сыр моцарелла, чеснок, икра тобика
+]]>
+       </description>
+          <param name="Категория блюда">Запеченные роллы</param>
+      </offer>
+      <offer id="585184632886">
+          <name>Картофель по деревенски</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-585184632886-kartofel-po-derevenski</url>
+          <price>60.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild6566-6538-4364-a233-323431373934/0P3lTuAjmL8.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+100 грамм
+]]>
+       </description>
+          <param name="Категория блюда">Картофель</param>
+      </offer>
+      <offer id="958405646812">
+          <name>Картофель фри</name>
+          <url>https://deliverway.ru/tykva/tproduct/176728366-958405646812-kartofel-fri</url>
+          <price>60.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3332-3261-4661-b433-333264346134/2BSWuC01l3s.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+100 грамм
+]]>
+       </description>
+          <param name="Категория блюда">Картофель</param>
+      </offer>
+      <offer id="131910639564">
+          <name>Закрытая пицца с курицей</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-131910639564-zakritaya-pitstsa-s-kuritsei</url>
+          <price>80.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3935-6636-4163-b632-376261326434/314106343_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Основа для пиццы, шашлык из курицы, капустный салат, красный лук, соленые огурцы, перчики халапеньо, сыр, фирменный острый соус
+]]>
+       </description>
+          <param name="Категория блюда">Закрытая пицца</param>
+      </offer>
+      <offer id="764327078431">
+          <name>Закрытая пицца с колбасой</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-764327078431-zakritaya-pitstsa-s-kolbasoi</url>
+          <price>70.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3935-6636-4163-b632-376261326434/314106343_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Основа для пиццы, шашлык из курицы, капустный салат, красный лук, соленые огурцы, перчики халапеньо, сыр, фирменный острый соус
+]]>
+       </description>
+          <param name="Категория блюда">Закрытая пицца</param>
+      </offer>
+      <offer id="129225031771">
+          <name>Закрытая пицца с курицей и грибами</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-129225031771-zakritaya-pitstsa-s-kuritsei-i-gribami</url>
+          <price>100.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3935-6636-4163-b632-376261326434/314106343_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Основа для пиццы, шашлык из курицы, капустный салат, красный лук, соленые огурцы, перчики халапеньо, сыр, фирменный острый соус
+]]>
+       </description>
+          <param name="Категория блюда">Закрытая пицца</param>
+      </offer>
+      <offer id="470451105515">
+          <name>Закрытая пицца с колбасой и грибами</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-470451105515-zakritaya-pitstsa-s-kolbasoi-i-gribami</url>
+          <price>90.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3935-6636-4163-b632-376261326434/314106343_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Основа для пиццы, шашлык из курицы, капустный салат, красный лук, соленые огурцы, перчики халапеньо, сыр, фирменный острый соус
+]]>
+       </description>
+          <param name="Категория блюда">Закрытая пицца</param>
+      </offer>
+      <offer id="294619673412">
+          <name>Закрытая пицца "Цезарь"</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-294619673412-zakritaya-pitstsa-tsezar</url>
+          <price>100.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3935-6636-4163-b632-376261326434/314106343_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Основа для пиццы, шашлык из курицы, капустный салат, красный лук, соленые огурцы, перчики халапеньо, сыр, фирменный острый соус
+]]>
+       </description>
+          <param name="Категория блюда">Закрытая пицца</param>
+      </offer>
+      <offer id="623353277119">
+          <name>Закрытая пицца "Цезарь барбекю"</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-623353277119-zakritaya-pitstsa-tsezar-barbekyu</url>
+          <price>110.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3935-6636-4163-b632-376261326434/314106343_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Основа для пиццы, шашлык из курицы, капустный салат, красный лук, соленые огурцы, перчики халапеньо, сыр, фирменный острый соус
+]]>
+       </description>
+          <param name="Категория блюда">Закрытая пицца</param>
+      </offer>
+      <offer id="441807742966">
+          <name>Закрытая пицца "Цезарь барбекю острая"</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-441807742966-zakritaya-pitstsa-tsezar-barbekyu-ostray</url>
+          <price>110.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3935-6636-4163-b632-376261326434/314106343_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Основа для пиццы, шашлык из курицы, капустный салат, красный лук, соленые огурцы, перчики халапеньо, сыр, фирменный острый соус
+]]>
+       </description>
+          <param name="Категория блюда">Закрытая пицца</param>
+      </offer>
+      <offer id="392949835266">
+          <name>Закрытая пицца "Цезарь люкс"</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-392949835266-zakritaya-pitstsa-tsezar-lyuks</url>
+          <price>110.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3935-6636-4163-b632-376261326434/314106343_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Основа для пиццы, шашлык из курицы, капустный салат, красный лук, соленые огурцы, перчики халапеньо, сыр, фирменный острый соус
+]]>
+       </description>
+          <param name="Категория блюда">Закрытая пицца</param>
+      </offer>
+      <offer id="492148112869">
+          <name>Закрытая пицца "Охотничья"</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-492148112869-zakritaya-pitstsa-ohotnichya</url>
+          <price>90.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3935-6636-4163-b632-376261326434/314106343_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Основа для пиццы, шашлык из курицы, капустный салат, красный лук, соленые огурцы, перчики халапеньо, сыр, фирменный острый соус
+]]>
+       </description>
+          <param name="Категория блюда">Закрытая пицца</param>
+      </offer>
+      <offer id="221587073500">
+          <name>Закрытая пицца "Охотничья с грибами"</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-221587073500-zakritaya-pitstsa-ohotnichya-s-gribami</url>
+          <price>110.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3935-6636-4163-b632-376261326434/314106343_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Основа для пиццы, шашлык из курицы, капустный салат, красный лук, соленые огурцы, перчики халапеньо, сыр, фирменный острый соус
+]]>
+       </description>
+          <param name="Категория блюда">Закрытая пицца</param>
+      </offer>
+      <offer id="281685398042">
+          <name>Закрытая пицца с курицей гриль</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-281685398042-zakritaya-pitstsa-s-kuritsei-gril</url>
+          <price>110.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3935-6636-4163-b632-376261326434/314106343_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Основа для пиццы, шашлык из курицы, капустный салат, красный лук, соленые огурцы, перчики халапеньо, сыр, фирменный острый соус
+]]>
+       </description>
+          <param name="Категория блюда">Закрытая пицца</param>
+      </offer>
+      <offer id="130364846693">
+          <name>Закрытая пицца с курицей гриль острая</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-130364846693-zakritaya-pitstsa-s-kuritsei-gril-ostray</url>
+          <price>110.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3935-6636-4163-b632-376261326434/314106343_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Основа для пиццы, шашлык из курицы, капустный салат, красный лук, соленые огурцы, перчики халапеньо, сыр, фирменный острый соус
+]]>
+       </description>
+          <param name="Категория блюда">Закрытая пицца</param>
+      </offer>
+      <offer id="155265669131">
+          <name>Закрытая пицца с курицей гриль и грибами</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-155265669131-zakritaya-pitstsa-s-kuritsei-gril-i-grib</url>
+          <price>120.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3935-6636-4163-b632-376261326434/314106343_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Основа для пиццы, шашлык из курицы, капустный салат, красный лук, соленые огурцы, перчики халапеньо, сыр, фирменный острый соус
+]]>
+       </description>
+          <param name="Категория блюда">Закрытая пицца</param>
+      </offer>
+      <offer id="365627854426">
+          <name>Закрытая пицца "Гавайская"</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-365627854426-zakritaya-pitstsa-gavaiskaya</url>
+          <price>90.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3935-6636-4163-b632-376261326434/314106343_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Основа для пиццы, шашлык из курицы, капустный салат, красный лук, соленые огурцы, перчики халапеньо, сыр, фирменный острый соус
+]]>
+       </description>
+          <param name="Категория блюда">Закрытая пицца</param>
+      </offer>
+      <offer id="317059488178">
+          <name>Закрытая пицца "Морская фантазия"</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-317059488178-zakritaya-pitstsa-morskaya-fantaziya</url>
+          <price>150.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3935-6636-4163-b632-376261326434/314106343_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Основа для пиццы, шашлык из курицы, капустный салат, красный лук, соленые огурцы, перчики халапеньо, сыр, фирменный острый соус
+]]>
+       </description>
+          <param name="Категория блюда">Закрытая пицца</param>
+      </offer>
+      <offer id="374497282194">
+          <name>Закрытая пицца с курицей и беконом</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-374497282194-zakritaya-pitstsa-s-kuritsei-i-bekonom</url>
+          <price>120.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3935-6636-4163-b632-376261326434/314106343_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Основа для пиццы, шашлык из курицы, капустный салат, красный лук, соленые огурцы, перчики халапеньо, сыр, фирменный острый соус
+]]>
+       </description>
+          <param name="Категория блюда">Закрытая пицца</param>
+      </offer>
+      <offer id="940436663984">
+          <name>Закрытая пицца мясная</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-940436663984-zakritaya-pitstsa-myasnaya</url>
+          <price>150.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3935-6636-4163-b632-376261326434/314106343_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Основа для пиццы, шашлык из курицы, капустный салат, красный лук, соленые огурцы, перчики халапеньо, сыр, фирменный острый соус
+]]>
+       </description>
+          <param name="Категория блюда">Закрытая пицца</param>
+      </offer>
+      <offer id="129418919018">
+          <name>Закрытая пицца сырная</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-129418919018-zakritaya-pitstsa-sirnaya</url>
+          <price>70.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3935-6636-4163-b632-376261326434/314106343_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Основа для пиццы, шашлык из курицы, капустный салат, красный лук, соленые огурцы, перчики халапеньо, сыр, фирменный острый соус
+]]>
+       </description>
+          <param name="Категория блюда">Закрытая пицца</param>
+      </offer>
+      <offer id="324114697561">
+          <name>Закрытая пицца овощная</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-324114697561-zakritaya-pitstsa-ovoschnaya</url>
+          <price>80.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3935-6636-4163-b632-376261326434/314106343_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Основа для пиццы, шашлык из курицы, капустный салат, красный лук, соленые огурцы, перчики халапеньо, сыр, фирменный острый соус
+]]>
+       </description>
+          <param name="Категория блюда">Закрытая пицца</param>
+      </offer>
+      <offer id="925350193785">
+          <name>Закрытая пицца с колбасой и фри</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-925350193785-zakritaya-pitstsa-s-kolbasoi-i-fri</url>
+          <price>100.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3935-6636-4163-b632-376261326434/314106343_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Основа для пиццы, шашлык из курицы, капустный салат, красный лук, соленые огурцы, перчики халапеньо, сыр, фирменный острый соус
+]]>
+       </description>
+          <param name="Категория блюда">Закрытая пицца</param>
+      </offer>
+      <offer id="107609170424">
+          <name>Закрытая пицца с курицей и фри</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-107609170424-zakritaya-pitstsa-s-kuritsei-i-fri</url>
+          <price>110.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3935-6636-4163-b632-376261326434/314106343_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Основа для пиццы, шашлык из курицы, капустный салат, красный лук, соленые огурцы, перчики халапеньо, сыр, фирменный острый соус
+]]>
+       </description>
+          <param name="Категория блюда">Закрытая пицца</param>
+      </offer>
+      <offer id="671642648032">
+          <name>Бургер 1</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-671642648032-burger-1</url>
+          <price>90.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3333-6331-4432-b761-363661623637/301599213_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Приготовленный на огне бифштекс из 100% говядины, сочные помидоры, свежий нарезанный салат, нежный ломтик сыра, бекон, густой майонез, хрустящие огурчики и свежий лук в мягкой булочке, посыпанной кунжутом
+]]>
+       </description>
+          <param name="Категория блюда">Бургеры</param>
+      </offer>
+      <offer id="353779971192">
+          <name>Бургер 2</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-353779971192-burger-2</url>
+          <price>120.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3333-6331-4432-b761-363661623637/301599213_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Приготовленный на огне бифштекс из 100% говядины, сочные помидоры, свежий нарезанный салат, нежный ломтик сыра, бекон, густой майонез, хрустящие огурчики и свежий лук в мягкой булочке, посыпанной кунжутом
+]]>
+       </description>
+          <param name="Категория блюда">Бургеры</param>
+      </offer>
+      <offer id="859923009521">
+          <name>Бургер 3</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-859923009521-burger-3</url>
+          <price>150.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3333-6331-4432-b761-363661623637/301599213_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Приготовленный на огне бифштекс из 100% говядины, сочные помидоры, свежий нарезанный салат, нежный ломтик сыра, бекон, густой майонез, хрустящие огурчики и свежий лук в мягкой булочке, посыпанной кунжутом
+]]>
+       </description>
+          <param name="Категория блюда">Бургеры</param>
+      </offer>
+      <offer id="837698684391">
+          <name>Картофель фри</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-837698684391-kartofel-fri</url>
+          <price>60.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3434-6564-4337-a661-386435353230/310733891_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Горячий и свежий картофель - золотистые и хрустящие ломтики отлично дополнят любой обед.
+]]>
+       </description>
+          <param name="Категория блюда">Фритюр</param>
+      </offer>
+      <offer id="251387717501">
+          <name>Картофель по деревенски</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-251387717501-kartofel-po-derevenski</url>
+          <price>60.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3534-3064-4631-a135-343933326638/301599134_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Горячий и свежий картофель - золотистые и хрустящие ломтики отлично дополнят любой обед.
+]]>
+       </description>
+          <param name="Категория блюда">Фритюр</param>
+      </offer>
+      <offer id="192738047128">
+          <name>Куриные нагетсы</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-192738047128-kurinie-nagetsi</url>
+          <price>80.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild6266-6566-4931-a539-626562646134/305483241_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Наши наггетсы сделаны из нежного белого куриного мяса в легкой хрустящей панировке. Рекомендуем к ним восемь разных, но одинаково вкусных соусов на выбор: сырный, кетчуп, барбекю, кисло-сладкий, карри, чесночный, горчичный, сладкий чили.
+]]>
+       </description>
+          <param name="Категория блюда">Фритюр</param>
+      </offer>
+      <offer id="509209206292">
+          <name>Соус барбекю</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-509209206292-sous-barbekyu</url>
+          <price>20.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild6331-6361-4533-a637-396665643239/301599146_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Добавьте в любимые закуски приятный аромат, остроту и восхитительный нежный вкус соуса Heinz. Это то, без чего Вам не обойтись!
+]]>
+       </description>
+          <param name="Категория блюда">Фритюр</param>
+      </offer>
+      <offer id="848420799416">
+          <name>Соус сырный</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-848420799416-sous-sirnii</url>
+          <price>20.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3665-6163-4432-b534-376563356462/301599148_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Добавьте в любимые закуски приятный аромат, остроту и восхитительный нежный вкус соуса Heinz. Это то, без чего Вам не обойтись!
+]]>
+       </description>
+          <param name="Категория блюда">Фритюр</param>
+      </offer>
+      <offer id="133683027904">
+          <name>Соус сальса</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-133683027904-sous-salsa</url>
+          <price>20.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild6236-3165-4138-b832-646638366435/301599145_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Добавьте в любимые закуски приятный аромат, остроту и восхитительный нежный вкус соуса Heinz. Это то, без чего Вам не обойтись!
+]]>
+       </description>
+          <param name="Категория блюда">Фритюр</param>
+      </offer>
+      <offer id="636170063884">
+          <name>Соус цезарь</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-636170063884-sous-tsezar</url>
+          <price>20.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3132-3863-4536-a335-303335656238/301599149_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Добавьте в любимые закуски приятный аромат, остроту и восхитительный нежный вкус соуса Heinz. Это то, без чего Вам не обойтись!
+]]>
+       </description>
+          <param name="Категория блюда">Фритюр</param>
+      </offer>
+      <offer id="563272287770">
+          <name>Соус острый</name>
+          <url>https://deliverway.ru/pizza-time/tproduct/188210418-563272287770-sous-ostrii</url>
+          <price>20.00</price>
+          <currencyId>RUB</currencyId>
+          <categoryId>245423028970</categoryId>
+          <picture>https://static.tildacdn.com/tild3834-3635-4139-a137-396463643338/301599147_m650.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Добавьте в любимые закуски приятный аромат, остроту и восхитительный нежный вкус соуса Heinz. Это то, без чего Вам не обойтись!
+]]>
+       </description>
+          <param name="Категория блюда">Фритюр</param>
+      </offer>
+  </offers>
+  </shop></yml_catalog>

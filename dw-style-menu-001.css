@@ -802,7 +802,10 @@ div[data-record-type="778"] {
 .t-store__filter {
     margin: 0px !important;
 }
-.t-store__filter__options_center {
+.t-store__filter__search-and-sort , .t-store__filter__search-mob-btn {
+	display: none !important;
+}
+.t-store__filter__options_center , .t-store__filter__options {
     text-align: left;
     display: block !important;
     z-index: 99 !important;

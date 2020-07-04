@@ -790,4 +790,6 @@
     padding: 0 15px;
     cursor: pointer;
 }
+#t-footer {
+    display: none;
 }

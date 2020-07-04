@@ -510,6 +510,10 @@
 [data-record-type="786"] {
     overflow: hidden;
 }
+.t786__container_mobile-flex::-webkit-scrollbar {
+    visibility: hidden;
+    height: 0px;
+}
 .t786__container {
     padding: 0 5px !important;
     margin: 0px;

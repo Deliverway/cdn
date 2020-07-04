@@ -340,6 +340,7 @@
     word-wrap: break-word !important;
     hyphens: auto !important;
     max-width: 1240px;
+    overflow: visible;
 }
 .t786__content {
     position: relative;

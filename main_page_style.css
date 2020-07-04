@@ -507,8 +507,9 @@
 .slick-next, .slick-prev {
     display: none !important;
 }
-[data-record-type="786"] {
+.t-rec_pt-res-480_105[data-record-type="786"] {
     overflow: hidden;
+    padding-top: 120px !important;
 }
 .t786__container {
     padding: 0 5px !important;

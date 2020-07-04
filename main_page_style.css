@@ -1,4 +1,4 @@
-<!--Desktop-->
+/* <!--Desktop--> */
 /*PopUp Stories*/
 .t-slds {
     max-width: 460px;
@@ -317,7 +317,7 @@
 }
 }
 
-<!--Slick Slider-->
+/* <!--Slick Slider--> */
 .t786__scroll-icon-wrapper {
     display: none;
 }
@@ -416,7 +416,7 @@
         background-image: url(https://static.tildacdn.com/tild6535-3632-4130-a362-666164386665/arrow-point-to-right.svg);
 }
 
-<!--Mobile-->
+/* <!--Mobile--> */
 @media screen and (max-width: 480px) {
 /*popup-stories*/
 .t-slds {

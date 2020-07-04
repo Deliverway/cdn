@@ -322,8 +322,8 @@
     display: none;
 }
 .t786__container_mobile-flex .t786__col {
-    min-width: 100%;
-    max-width: 100%;
+    min-width: 32%;
+    max-width: 32%;
 }
 .body {
     word-wrap: break-word !important;
@@ -512,7 +512,6 @@
 }
 .t786__container {
     padding: 0 5px !important;
-    width: calc(100% - 15px);
     margin: 0px;
 }
 .t786__col {

@@ -420,6 +420,10 @@
     min-width: 32%;
     max-width: 32%;
 }
+.t786__mobile-flex-gap {
+    width: 5px !important;
+    min-width: 5px !important;
+}
 /*popup-stories*/
 .t-slds {
     width: calc(100% - 20px);

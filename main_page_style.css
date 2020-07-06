@@ -321,10 +321,6 @@
 .t786__scroll-icon-wrapper {
     display: none;
 }
-.t786__container_mobile-flex .t786__col {
-    min-width: 32%;
-    max-width: 32%;
-}
 .body {
     word-wrap: break-word !important;
     hyphens: auto !important;
@@ -419,6 +415,11 @@
 
 /* <!--Mobile--> */
 @media screen and (max-width: 480px) {
+/* Slickslider */
+.t786__container_mobile-flex .t786__col {
+    min-width: 32%;
+    max-width: 32%;
+}
 /*popup-stories*/
 .t-slds {
     width: calc(100% - 20px);

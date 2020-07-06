@@ -140,17 +140,6 @@
 .t-store__card__bgimg {
     border-radius: 4px 0 0 4px;
 }
-.t-store__card__bgimg_second {
-    z-index: 2 !important;
-    opacity: 1 !important;
-    width: 38px;
-    height: 38px;
-    bottom: 10px !important;
-    top: auto !important;
-    left: 10px !important;
-    border-radius: 30px;
-    border: 2px solid #ffffff;
-}
 .t-store__card__mark-wrapper {
     top: 20px;
     right: -500px;
@@ -725,6 +714,17 @@
 }
 .t-store__card__bgimg {
     border-radius: 8px 8px 0 0;
+}
+.t-store__card__bgimg_second {
+    z-index: 2 !important;
+    opacity: 1 !important;
+    width: 38px;
+    height: 38px;
+    bottom: 10px !important;
+    top: auto !important;
+    left: 10px !important;
+    border-radius: 30px;
+    border: 2px solid #ffffff;
 }
 .t-store__card__textwrapper {
     padding: 10px 15px 15px 15px;

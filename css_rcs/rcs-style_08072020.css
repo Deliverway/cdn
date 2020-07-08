@@ -595,10 +595,9 @@
 }
 .js-store-prod-btn2 {
     font-size: 35px !important;
-    line-height: 32px;
+    line-height: 30px;
     padding: 0px !important;
-    font-family: 'Monsterrat' !important;
-    font-weight: 500 !important;
+    font-weight: 300 !important;
 }
 /*POPUP-CART*/
 .t-store .t-popup__close {

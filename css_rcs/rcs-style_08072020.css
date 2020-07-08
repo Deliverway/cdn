@@ -107,7 +107,7 @@
 .t-store__card__descr {
     margin-top: 0px !important;
     display: -webkit-box;
-    -webkit-line-clamp: 3;
+    -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
 }

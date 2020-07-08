@@ -344,8 +344,6 @@
 }
 }
 
-<!--Mobile-->
-
 /*Мобильная версия*/
 @media screen and (max-width: 480px) {
 [data-elem-id="1592403986594"] , [data-elem-id="1592403986588"] {
@@ -902,7 +900,6 @@
 }
 }
 
-<!--Preloadre-->
 @keyframes ldio-yxcjum436n {
    0% { transform: translate(11.82px,78.8px) scale(0); }
   25% { transform: translate(11.82px,78.8px) scale(0); }
@@ -977,7 +974,6 @@
 }
 .ldio-yxcjum436n div { box-sizing: content-box; }
 
-<!--Cart style-->
 
 /*Basket-cart (корзина)*/
 #basket-cart  {

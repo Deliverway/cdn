@@ -282,9 +282,6 @@
     display: none;
 }
 .t-store__card__title {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
     transition: 0.1s all linear;
 }
 .t-store__card:hover .t-store__card__title {

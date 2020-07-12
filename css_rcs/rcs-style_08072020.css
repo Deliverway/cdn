@@ -727,16 +727,15 @@
     vertical-align: middle;
     width: 24px;
     height: 24px;
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .minus_quantity-controls::before {
-    background-image: url(https://static.delivery-club.ru/build/svg/sprite.svg?ts=1594042252202);
-    background-size: 864px 796px;
-    background-position: 0px -772px;
+    background-image: url(https://static.tildacdn.com/tild3930-3437-4566-b863-613635613933/minus_1.svg);
 }
 .plus_quantity-controls::before {
-    background-image: url(https://static.delivery-club.ru/build/svg/sprite.svg?ts=1594042252202);
-    background-size: 864px 796px;
-    background-position: -168px -772px;
+    background-image: url(https://static.tildacdn.com/tild3637-3832-4634-b436-363034373661/plus_1.svg);
 }
 .value_quantity-controls {
     margin: 0 15px;

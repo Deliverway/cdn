@@ -780,7 +780,7 @@
     font-weight: 800 !important;
 }
 .t-store__card__descr {
-    margin-top: 20px;
+    margin-top: 24px;
     padding: 0 0 15px 0 !important;
     font-size: 0px !important;
     height: 20px;
@@ -789,20 +789,20 @@
     position: relative;
     bottom: 5px;
     line-height: 1px;
-    padding: 4px 8px 4px 22px;
+    padding: 5px 10px 5px 24px;
     border-radius: 3px;
     background: #01aaff;
     color: #fff;
     margin-right: 5px;
-    font-size: 10px;
+    font-size: 11px;
 }
 .t-store__card__descr strong::before {
     content: '';
     background-image: url(https://static.tildacdn.com/tild6232-3830-4464-a431-613832626435/htag.svg);
-    background-size: 10px;
+    background-size: 11px;
     background-position: left center;
     background-repeat: no-repeat;
-    width: 10px;
+    width: 11px;
     height: 100%;
     position: absolute;
     left: 0px;

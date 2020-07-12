@@ -139,6 +139,17 @@
 }
 .t-store__card__bgimg {
     border-radius: 4px 0 0 4px;
+    opacity: 1 !important;
+}
+.t-store__card__bgimg_second {
+    z-index: 2 !important;
+    opacity: 1 !important;
+    width: 48px;
+    height: 48px;
+    top: 20px !important;
+    left: 20px !important;
+    border-radius: 30px;
+    border: 2px solid #ffffff;
 }
 .t-store__card__mark-wrapper {
     top: 20px;

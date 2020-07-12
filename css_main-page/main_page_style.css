@@ -784,6 +784,7 @@
     padding: 0 0 15px 0 !important;
     font-size: 0px !important;
     height: 20px;
+    white-space: pre;
 }
 .t-store__card__descr strong {
     position: relative;

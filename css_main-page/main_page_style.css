@@ -766,12 +766,25 @@
     position: relative;
     bottom: 5px;
     line-height: 1px;
-    padding: 3px 6px;
+    padding: 4px 8px 4px 22px;
     border-radius: 3px;
     background: #01aaff;
     color: #fff;
     margin-right: 5px;
     font-size: 10px;
+}
+.t-store__card__descr strong::before {
+    content: '';
+    background-image: url(https://static.tildacdn.com/tild6232-3830-4464-a431-613832626435/htag.svg);
+    background-size: 10px;
+    background-position: left center;
+    background-repeat: no-repeat;
+    width: 10px;
+    height: 100%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    margin-left: 8px;
 }
 .t-store__card__descr span {
     position: relative;

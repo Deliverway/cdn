@@ -1,4 +1,14 @@
 /* <!--Desktop--> */
+.t-store__card__descr strong:hover {
+    background: #0099e7;
+}
+.t-store__card__descr strong a {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+}
 /*PopUp Stories*/
 .t-slds {
     max-width: 460px;
@@ -208,8 +218,8 @@
     position: relative;
     bottom: 5px;
     line-height: 1px;
-    padding: 4px 8px;
-    border-radius: 3px;
+    padding: 7px 12px;
+    border-radius: 4px;
     background: #01aaff;
     color: #fff;
     margin-right: 5px;

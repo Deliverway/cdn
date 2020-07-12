@@ -87,6 +87,19 @@
     font-size: 14px;
     margin-bottom: 5px;
     border-radius: 3px;
+    display: flex;
+}
+.t-store__filter__custom-sel.active::before {
+    content: '';
+    background-image: url(https://static.tildacdn.com/tild6232-3830-4464-a431-613832626435/htag.svg);
+    background-size: 13px;
+    background-position: left center;
+    background-repeat: no-repeat;
+    width: 14px;
+    height: 14px;
+    display: block;
+    position: relative;
+    padding-right: 5px;
 }
 .t-store__filter__custom-sel:hover {
     background-color: rgba(1,170,255,0.15);

@@ -10,7 +10,7 @@
 }
 /* SKU HIDE */
 .t-store__prod-popup__sku , .t706__product-title div {
-	display: none;
+	display: none !important;
 }
 @media screen and (min-width: 960px) {
 .pop-up_btn-container {

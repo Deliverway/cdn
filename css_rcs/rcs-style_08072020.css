@@ -849,6 +849,11 @@
 }
 .t706 .t-submit {
     text-transform: uppercase;
+	position: fixed;
+    bottom: 10px;
+    left: 10px;
+    width: calc(100% - 20px);
+	font-size: 14px !important;
 }
 /*Fixed block share and back icon*/
 .fixed-mobile-block {

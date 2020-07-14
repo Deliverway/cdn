@@ -474,9 +474,9 @@
 .t-store__filter__custom-sel {
     color: #01aaff;
     position: relative;
-    font-weight: 700;
+    font-weight: 600;
     text-transform: uppercase;
-    font-size: 12px;
+    font-size: 10px;
     white-space: nowrap;
     line-height: 30px;
     height: 30px;

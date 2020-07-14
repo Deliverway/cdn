@@ -8,6 +8,9 @@
 #tab-navigation {
     display: none;
 }
+.t-store__prod-popup__container .js-store-product {
+    margin: 0px !important;    
+}
 /* SKU HIDE */
 .t-store__prod-popup__sku , .t706__product-title div {
 	display: none !important;

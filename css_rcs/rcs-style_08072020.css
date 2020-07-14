@@ -474,7 +474,11 @@
     height: 0px;
 }
 .t-store__filter__custom-sel.active {
-    background-color: #01aaff;
+    background: rgb(1,170,255);
+	background: -moz-linear-gradient(90deg, rgba(1,170,255,1) 0%, rgba(162,105,248,1) 100%);
+	background: -webkit-linear-gradient(90deg, rgba(1,170,255,1) 0%, rgba(162,105,248,1) 100%);
+	background: linear-gradient(90deg, rgba(1,170,255,1) 0%, rgba(162,105,248,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#01aaff",endColorstr="#a269f8",GradientType=1);
     color: #fff;
 }
 .t-store__filter__custom-sel {
@@ -523,7 +527,11 @@
     height: 100%;
     border-radius: 0 3px 3px 0;
     position: absolute;
-    background: #01aaff;
+	background: rgb(1,170,255);
+	background: -moz-linear-gradient(180deg, rgba(1,170,255,1) 0%, rgba(162,105,248,1) 100%);
+	background: -webkit-linear-gradient(180deg, rgba(1,170,255,1) 0%, rgba(162,105,248,1) 100%);
+	background: linear-gradient(180deg, rgba(1,170,255,1) 0%, rgba(162,105,248,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#01aaff",endColorstr="#a269f8",GradientType=1);
     left: -5px;
     top: 0px;
 }
@@ -1101,7 +1109,11 @@
 }
 .basket-btn-container {
     height: 50px;
-    background: #01aaff;
+	background: rgb(1,170,255);
+	background: -moz-linear-gradient(90deg, rgba(1,170,255,1) 0%, rgba(162,105,248,1) 100%);
+	background: -webkit-linear-gradient(90deg, rgba(1,170,255,1) 0%, rgba(162,105,248,1) 100%);
+	background: linear-gradient(90deg, rgba(1,170,255,1) 0%, rgba(162,105,248,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#01aaff",endColorstr="#a269f8",GradientType=1);
     border-radius: 4px;
     color: #fff;
     font-family: 'Montserrat';

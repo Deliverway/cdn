@@ -363,6 +363,7 @@
 }
 [data-record-type="786"] {
     position: relative;
+	background-color: #f8f8f8 !important;
 }
 /*Tooltip*/
 .t396 .tn-atom__pin {
@@ -421,6 +422,7 @@
     display: block !important;
     margin: 0px;
     padding: 0 10px;
+    background-color: #ffffff;
 }
 .t-store__filter__search .t-store__filter__input {
     font-family: 'Roboto';

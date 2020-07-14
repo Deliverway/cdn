@@ -508,6 +508,20 @@
     position: relative;
     width: 100% !important;
     background-color: #fff;
+	transition: 0.15s all linear;
+}
+.sendTocart {
+    margin-left: 5px !important;
+}
+.sendTocart::before {
+    content: '';
+    width: 5px;
+    height: 100%;
+    border-radius: 0 3px 3px 0;
+    position: absolute;
+    background: #01aaff;
+    left: -5px;
+    top: 0px;
 }
 .t-store__card a {
     display: -webkit-inline-box;

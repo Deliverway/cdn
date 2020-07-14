@@ -816,20 +816,32 @@
 .t706__product {
     margin: 0px !important;
 }
+.t706__cartwin-top {
+    display: block !important;
+    padding: 0px !important;
+    border: 0px !important;
+    position: fixed;
+    top: 15px;
+}
 .t706__cartwin-close {
-    z-index: 0;
-    background-color: transparent;
+	background-color: #fff;
+    border-bottom: 1px solid rgba(0,0,0,0.15);
+    z-index: 999;
+}
+.t706__cartwin-close-wrapper {
+	padding-right: 10px;
 }
 .t706__cartwin-close-icon g {
-    stroke-width: 1px;
-    stroke: #fff;
+	stroke-width: 1px;
+    fill: #01aaff;
+    stroke: #01aaff;
 }
 .t706 .t-form__submit {
     padding-bottom: 0px;
     margin-bottom: 0px;
 }
 .t706__cartwin-content {
-    border-radius: 8px 8px 0 0 !important;
+    border-radius: 0px !important;
     padding: 30px 15px !important;
 }
 .t-radio__control , .t-checkbox__control {
@@ -1072,6 +1084,7 @@
     cursor: pointer;
     line-height: 50px;
     padding: 0 15px;
+	font-size: 15px;
 }
 .basket-btn_amount {
     text-align: right;

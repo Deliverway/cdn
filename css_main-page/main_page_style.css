@@ -757,7 +757,7 @@
     border-radius: 8px;
     transition: 0.1s all linear;
 }
-.t-store__card::active {
+.t-store__card:active {
     transform: scale(1.02);
 }
 .t-store__grid-cont_col-width_stretch .t-store__card__imgwrapper_4-3 {
@@ -781,11 +781,11 @@
     padding: 10px 15px 15px 15px;
 }
 .t-store__card__title {
-    font-weight: 800 !important;
+    font-size: 22px !important;
 }
 .t-store__card__descr {
     margin-top: 24px;
-    padding: 0 0 15px 0 !important;
+    padding: 0 0 17px 0 !important;
     font-size: 0px !important;
     height: 20px;
     white-space: pre;
@@ -795,7 +795,7 @@
     bottom: 5px;
     line-height: 1px;
     padding: 5px 10px 5px 24px;
-    border-radius: 3px;
+    border-radius: 30px;
     background: #01aaff;
     color: #fff;
     margin-right: 5px;
@@ -816,12 +816,12 @@
 }
 .t-store__card__descr span {
     position: relative;
-    bottom: -15px;
+    bottom: -17px;
     line-height: 1;
     margin-right: 5px;
-    padding: 3px 6px;
+    padding: 4px 8px;
     background: rgba(1,170,255,0.1);
-    border-radius: 3px;
+    border-radius: 30px;
     font-size: 10px;
 }
 .t-store__card__price-wrapper {

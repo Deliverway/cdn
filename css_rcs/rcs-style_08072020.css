@@ -822,6 +822,7 @@
     border: 0px !important;
     position: fixed;
     top: 15px;
+	z-index: 999;
 }
 .t706__cartwin-close {
 	background-color: #fff;

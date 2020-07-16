@@ -428,6 +428,7 @@
 .t-store__filter__controls-wrapper {
 	height: 90px;
     position: relative;
+	margin-bottom: 8px;
 }
 .t-store__filter__search-and-sort {
 	display: block !important;

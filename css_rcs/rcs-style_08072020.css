@@ -785,7 +785,11 @@
     display: flex;
     padding: 0 15px;
     border-radius: 4px;
-    background: #01aaff;
+    background: rgb(1,170,255);
+	background: -moz-linear-gradient(90deg, rgba(1,170,255,1) 0%, rgba(162,105,248,1) 100%);
+	background: -webkit-linear-gradient(90deg, rgba(1,170,255,1) 0%, rgba(162,105,248,1) 100%);
+	background: linear-gradient(90deg, rgba(1,170,255,1) 0%, rgba(162,105,248,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#01aaff",endColorstr="#a269f8",GradientType=1);
     line-height: 50px;
     font-family: 'Montserrat';
     font-size: 14px;

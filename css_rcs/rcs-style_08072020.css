@@ -425,10 +425,19 @@
 .t-store__grid-cont_col-width_stretch.t-store__grid-cont_indent[data-col-gap='20'], .t-store__grid-cont_col-width_stretch[data-col-gap='20'] {
     padding: 0px;
 }
+.t-store__filter__controls-wrapper {
+	height: 90px;
+    position: relative;
+}
 .t-store__filter__search-and-sort {
-    display: block !important;
+	display: block !important;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
     margin: 0px;
     padding: 0 10px;
+    box-sizing: border-box;
     background-color: #ffffff;
 }
 .t-store__filter__search .t-store__filter__input {
@@ -448,6 +457,9 @@
     padding: 0px;
     margin: 0px;
     border: none;
+	position: absolute;
+    width: 100%;
+    bottom: 0px;
 }
 .t-store__filter__item-controls-wrap {
     position: relative;

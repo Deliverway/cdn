@@ -758,7 +758,8 @@
     transition: 0.1s all linear;
 }
 .t-store__card:active {
-    transform: scale(1.02);
+    transform: scale(0.97);
+    opacity: 0.85;
 }
 .t-store__grid-cont_col-width_stretch .t-store__card__imgwrapper_4-3 {
     padding-bottom: 45% !important;
